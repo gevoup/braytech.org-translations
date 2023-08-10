@@ -205,7 +205,7 @@
       "Description": "Associate this Bungie.net profile with a Patreon account.",
       "Name": "Patreon Association",
       "Placeholder": "chonky_zuzuvala69@hotmail.reef",
-      "Success": "Thanks! Your email is now associated with your profiles",
+      "Success": "Thanks! Your email is now associated with your profile.",
       "Text": "Some Patreon tiers include rewards in the form of _flair_ which is displayed at the side of your player name. Enable display of relevant flair by entering the email associated with your Patreon account."
     },
     "Suggestion": {
@@ -357,7 +357,6 @@
     "Activate": "Activate",
     "Active": "Active",
     "ActiveModifiers": "Active Modifiers",
-    "ActiveScore": "Active Score",
     "Activity": "Activity",
     "ActivityBonus": "Activity Bonus",
     "ActivityMembers": "Activity Members",
@@ -419,7 +418,6 @@
     "Inventory": "Inventory",
     "ItemRolls": "Rolls",
     "Items": "Items",
-    "LegacyScore": "Legacy Score",
     "LevelNth": "Level {{number}}",
     "Location": "Location",
     "Lore": "Lore",
@@ -469,7 +467,11 @@
     "Translator_plural": "Translators",
     "TrialsPassage": "Trials Passage",
     "TrialsPoints": "Trials Points",
+    "ActiveScore": "Active Score",
+    "LegacyScore": "Legacy Score",
     "TriumphScore": "Triumph Score",
+    "ActiveRecords": "Active Records",
+    "LegacyRecords": "Legacy Records",
     "Triumphs": "Triumphs",
     "Unknown": "Unknown",
     "Users": "Users",
@@ -753,6 +755,8 @@
   },
   "Maps": {
     "Context": {
+      "Rotations": "Rotations",
+      "Next": "Next: {{next}}",
       "ChecklistsAndMore": "Checklists + More",
       "NoChecklistItems": "No items detected"
     },
